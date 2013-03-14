@@ -1,0 +1,11 @@
+place aa 100 100
+place bb 100 300
+place cc 300 100
+place dd 300 300
+place ee 300 500
+road aa bb h1 800
+road aa cc h3 200
+road bb dd h4 200
+road bb ee h4 500
+start aa
+end dd

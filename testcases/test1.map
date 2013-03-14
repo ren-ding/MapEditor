@@ -1,0 +1,8 @@
+place adl 300 100
+place mel 100 100
+place syd 100 300
+road mel adl h1 800
+road syd adl h4 1200
+road mel syd - 900
+start adl
+end syd

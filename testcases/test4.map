@@ -1,0 +1,13 @@
+place a 100 100
+place b 100 300
+place c 300 100
+place d 300 300
+place e 300 500
+road a b h1 800
+road c d h2 800
+road a c h3 200
+road b d h4 200
+road d e h4 200
+road b e h4 500
+start a
+end e
